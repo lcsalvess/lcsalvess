@@ -29,4 +29,3 @@
   </a> 
 </div>
 
-![Snake animation](https://github.com/lcsalvess/lcsalvess/blob/output/github-contribution-grid-snake.svg)
